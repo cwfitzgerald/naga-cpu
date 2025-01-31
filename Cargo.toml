@@ -1,3 +1,3 @@
 [workspace]
-members = ["naga-cpu", "snapshots"]
+members = ["naga-cpu", "snapshots", "testing"]
 resolver = "2"
