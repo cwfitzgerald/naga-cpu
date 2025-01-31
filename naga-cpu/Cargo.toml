@@ -1,0 +1,7 @@
+[package]
+name = "naga-cpu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+naga = "24"

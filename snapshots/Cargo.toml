@@ -1,0 +1,8 @@
+[package]
+name = "snapshots"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+camino = "1.1.9"
+naga = { version = "24", features = ["wgsl-in"] }
