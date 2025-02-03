@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-noop-waker = "0.1.0"
+bytemuck = "1.21.0"
